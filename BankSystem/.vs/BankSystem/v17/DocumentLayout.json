@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project Winform\\BankSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5AB495-7C57-4210-A02A-62F85A52C16F}|BankSystem.csproj|c:\\project winform\\banksystem\\views\\balanceaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5AB495-7C57-4210-A02A-62F85A52C16F}|BankSystem.csproj|solutionrelative:views\\balanceaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5AB495-7C57-4210-A02A-62F85A52C16F}|BankSystem.csproj|c:\\project winform\\banksystem\\views\\balanceaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F5AB495-7C57-4210-A02A-62F85A52C16F}|BankSystem.csproj|solutionrelative:views\\balanceaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5AB495-7C57-4210-A02A-62F85A52C16F}|BankSystem.csproj|c:\\project winform\\banksystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5AB495-7C57-4210-A02A-62F85A52C16F}|BankSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5AB495-7C57-4210-A02A-62F85A52C16F}|BankSystem.csproj|c:\\project winform\\banksystem\\views\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5AB495-7C57-4210-A02A-62F85A52C16F}|BankSystem.csproj|solutionrelative:views\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BalanceAccount.cs",
+              "DocumentMoniker": "C:\\Project Winform\\BankSystem\\Views\\BalanceAccount.cs",
+              "RelativeDocumentMoniker": "Views\\BalanceAccount.cs",
+              "ToolTip": "C:\\Project Winform\\BankSystem\\Views\\BalanceAccount.cs",
+              "RelativeToolTip": "Views\\BalanceAccount.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:29:49.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BalanceAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Project Winform\\BankSystem\\Views\\BalanceAccount.cs",
+              "RelativeDocumentMoniker": "Views\\BalanceAccount.cs",
+              "ToolTip": "C:\\Project Winform\\BankSystem\\Views\\BalanceAccount.cs [Design]",
+              "RelativeToolTip": "Views\\BalanceAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:29:29.231Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Project Winform\\BankSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Project Winform\\BankSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwHgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:29:16.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "C:\\Project Winform\\BankSystem\\Views\\Deposit.cs",
+              "RelativeDocumentMoniker": "Views\\Deposit.cs",
+              "ToolTip": "C:\\Project Winform\\BankSystem\\Views\\Deposit.cs",
+              "RelativeToolTip": "Views\\Deposit.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:53:40.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

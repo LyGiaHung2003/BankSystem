@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\BalanceAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Branch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\CreateCus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Dangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Transaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Deposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\TransactionLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Withdraw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
